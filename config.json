@@ -1,0 +1,7 @@
+{
+    "classes": ["person", "car", "dog", "cat", "bicycle"],
+    "ollama_url": "http://localhost:11434/api/generate",
+    "qwen_model": "qwen2-vl:7b",
+    "yolo_model": "yolov8n.pt",
+    "base_dir": "./output"
+}
