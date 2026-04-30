@@ -1,0 +1,14 @@
+# YOLO 数据集配置
+# 由 Qwen3VL 自动生成
+
+# 训练数据路径 (绝对路径)
+train: /data6/xu/qwen3VL_Labeling_YOLOv8_training_infer/output/yolo_dataset/images/train
+
+# 验证数据路径 (此处与训练相同，实际可分开)
+val: /data6/xu/qwen3VL_Labeling_YOLOv8_training_infer/output/yolo_dataset/images/train
+
+# 类别数量
+nc: 5
+
+# 类别名称
+names: ['person', 'car', 'dog', 'cat', 'bicycle']

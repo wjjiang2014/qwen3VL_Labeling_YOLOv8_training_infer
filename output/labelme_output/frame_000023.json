@@ -1,0 +1,398 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.079,
+          0.382
+        ],
+        [
+          0.178,
+          0.545
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.215,
+          0.347
+        ],
+        [
+          0.303,
+          0.517
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.348,
+          0.368
+        ],
+        [
+          0.432,
+          0.53
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.262,
+          0.0
+        ],
+        [
+          0.321,
+          0.05
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.315,
+          0.065
+        ],
+        [
+          0.382,
+          0.182
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.442,
+          0.0
+        ],
+        [
+          0.496,
+          0.047
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.525,
+          0.685
+        ],
+        [
+          0.631,
+          0.875
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.514,
+          0.922
+        ],
+        [
+          0.625,
+          0.997
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.556,
+          0.515
+        ],
+        [
+          0.645,
+          0.665
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.573,
+          0.35
+        ],
+        [
+          0.653,
+          0.497
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.582,
+          0.2
+        ],
+        [
+          0.662,
+          0.347
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.59,
+          0.1
+        ],
+        [
+          0.667,
+          0.225
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.6,
+          0.0
+        ],
+        [
+          0.667,
+          0.117
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.686,
+          0.395
+        ],
+        [
+          0.796,
+          0.732
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.709,
+          0.342
+        ],
+        [
+          0.782,
+          0.425
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.709,
+          0.237
+        ],
+        [
+          0.782,
+          0.357
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.709,
+          0.127
+        ],
+        [
+          0.78,
+          0.232
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.709,
+          0.017
+        ],
+        [
+          0.78,
+          0.112
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.703,
+          0.0
+        ],
+        [
+          0.757,
+          0.037
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.823,
+          0.0
+        ],
+        [
+          0.885,
+          0.125
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.817,
+          0.122
+        ],
+        [
+          0.885,
+          0.235
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.831,
+          0.24
+        ],
+        [
+          0.903,
+          0.368
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.843,
+          0.377
+        ],
+        [
+          0.929,
+          0.507
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.867,
+          0.547
+        ],
+        [
+          0.953,
+          0.692
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.87,
+          0.722
+        ],
+        [
+          0.967,
+          0.862
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "车辆",
+      "points": [
+        [
+          0.875,
+          0.8
+        ],
+        [
+          0.998,
+          0.997
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame_000023.jpg",
+  "imageData": null
+}

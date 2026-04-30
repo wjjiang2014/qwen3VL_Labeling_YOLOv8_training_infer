@@ -1,0 +1,23 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          0.559,
+          0.151
+        ],
+        [
+          0.582,
+          0.214
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20251024161952_715.jpg",
+  "imageData": null
+}

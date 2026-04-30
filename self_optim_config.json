@@ -1,0 +1,8 @@
+{
+    "class_name": "可疑物品",
+    "human_experience": "可疑包裹，无人看管，周边没人",
+    "ollama_url": "http://192.168.159.179:11434/api/generate",
+    "qwen_model": "qwen3-vl:30b",
+    "yolo_model": "yolov8n.pt",
+    "base_dir": "./output"
+}

@@ -1,0 +1,53 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          0.847,
+          0.968
+        ],
+        [
+          0.867,
+          0.998
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.862,
+          0.968
+        ],
+        [
+          0.881,
+          0.998
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.88,
+          0.967
+        ],
+        [
+          0.896,
+          0.998
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20251024141652_681.jpg",
+  "imageData": null
+}

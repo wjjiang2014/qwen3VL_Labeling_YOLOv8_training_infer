@@ -1,0 +1,38 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          0.305,
+          0.283
+        ],
+        [
+          0.339,
+          0.378
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          0.309,
+          0.246
+        ],
+        [
+          0.338,
+          0.319
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20251218100513_375.jpg",
+  "imageData": null
+}

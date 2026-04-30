@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# 运行文件
+run/
+*.pid
+
+# 共享内存
+shm/
+dev/shm/
+
+# 模型文件
+models/*.onnx
+models/*.pt
+models/*.bin
+
+# 数据
+data/
+*.mp4
+*.avi
+
+# 系统
+.DS_Store
+Thumbs.db
+src/simu/RTMP_simulator - 副本.py
